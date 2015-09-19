@@ -1,7 +1,11 @@
 Conor's Git
 =========
 
-Below you can find all of my work here at the College of New Jersey.
-Repositories that contain major projects in class are private, so please message me and I will fork them.
+B.S. in Computer Science and Applied Mathematics from The College of New 
+Jersey.
+
+Currently a PhD Student at Stony Brook.
+
+Feel free to message me.
 
 Thanks!
